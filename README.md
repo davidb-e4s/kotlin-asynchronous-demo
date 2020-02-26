@@ -7,6 +7,6 @@ MongoDB as does away with mono/flux making it easy to write asynchronous service
 Run the tests to see the examples in action. I have also shown how to run Spring MVC tests and JUnit tests on a 
 coroutine codebase. 
 
-#MongoDB
+# MongoDB
 You will need a local instance of MongoDB installed in order to run the example. The connection string is located
-in application.properties
+in application.properties 
