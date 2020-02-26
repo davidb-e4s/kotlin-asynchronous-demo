@@ -1,4 +1,4 @@
-# Kotlin Reactive Demo
+# Kotlin Asynchronous Service Demo
 A sample project to show how to use Kotlin/Coroutines with Spring boot to create asynchronous services.
 This project uses the latest Spring Data milestone (at time of writing) which has added coroutine support for
 MongoDB as does away with mono/flux making it easy to write asynchronous services in a synchronous style
